@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "strict": true,
+    "outDir": "dist",
+    "sourceMap": true,
+    "noImplicitAny": true,
+    "declaration": true,
+    "module": "ESNext"
+  },
+
+  "include": ["./**/*.ts"],
+  "exclude": ["node_modules", "gen"]
+}
